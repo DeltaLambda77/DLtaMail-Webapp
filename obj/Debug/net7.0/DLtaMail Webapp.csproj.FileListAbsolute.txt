@@ -1,0 +1,35 @@
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\bin\Debug\net7.0\appsettings.Development.json
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\bin\Debug\net7.0\appsettings.json
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\bin\Debug\net7.0\DLtaMail Webapp.staticwebassets.runtime.json
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\bin\Debug\net7.0\DLtaMail Webapp.exe
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\bin\Debug\net7.0\DLtaMail Webapp.deps.json
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\bin\Debug\net7.0\DLtaMail Webapp.runtimeconfig.json
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\bin\Debug\net7.0\DLtaMail Webapp.dll
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\bin\Debug\net7.0\DLtaMail Webapp.pdb
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\bin\Debug\net7.0\MailKit.dll
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\bin\Debug\net7.0\MimeKit.dll
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\DLtaMail Webapp.csproj.AssemblyReference.cache
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\DLtaMail Webapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\DLtaMail Webapp.AssemblyInfoInputs.cache
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\DLtaMail Webapp.AssemblyInfo.cs
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\DLtaMail Webapp.csproj.CoreCompileInputs.cache
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\DLtaMail Webapp.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\DLtaMail Webapp.RazorAssemblyInfo.cache
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\DLtaMail Webapp.RazorAssemblyInfo.cs
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\staticwebassets\msbuild.DLtaMail Webapp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\staticwebassets\msbuild.build.DLtaMail Webapp.props
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DLtaMail Webapp.props
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DLtaMail Webapp.props
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\staticwebassets.build.json
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\staticwebassets.development.json
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\scopedcss\bundle\DLtaMail Webapp.styles.css
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\scopedcss\projectbundle\DLtaMail Webapp.bundle.scp.css
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\DLtaMail Webapp.csproj.CopyComplete
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\DLtaMail Webapp.dll
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\refint\DLtaMail Webapp.dll
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\DLtaMail Webapp.pdb
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\DLtaMail Webapp.genruntimeconfig.cache
+D:\Coding\C#\DLtaMail\DLtaMail Webapp\DLtaMail Webapp\obj\Debug\net7.0\ref\DLtaMail Webapp.dll
